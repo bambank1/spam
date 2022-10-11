@@ -58,6 +58,9 @@ pkg install nano
 pkg install bash
 ```
 ```sh
+git clone https://github.com/FranataVPN/Spam-Sms
+```
+```sh
 cd Spam-Sms
 
 ```
