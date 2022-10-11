@@ -51,47 +51,29 @@ pkg install git
 pkg install python
 
 ```
-
 ```sh
-
-pip install requests bs4 cursor pystyle
+pkg install nano
+```
+```sh
+pkg install bash
+```
+```sh
+cd Spam-Sms
 
 ```
 
 ```sh
-
-pip install wheel
-
-```
-
-```sh
-
-pkg install libjpeg-turbo
+ls
 
 ```
-
 ```sh
 
-LDFLAGS="-L/system/lib64/" CFLAGS="-I/data/data/com.termux/files/usr/include/" pip install Pillow
+bash sms.sh
 
 ```
-
+- Jika (bash sms.sh) Tidak Bisa,Anda Bisa Menggunakan.
 ```sh
-
-git clone https://github.com/FranataVPN/Tiktok-Viuw
-
-```
-
-```sh
-
-cd Tiktok-Viuw 
-
-```
-
-```sh
-
-python viuw.py
-
+python sms.py
 ```
 
 <p align="center">
@@ -108,7 +90,7 @@ python viuw.py
 
 [![LeetHub](https://github.com/FranataVPN/Spam-Sms/blob/main/IMG_20221011_213508.jpg)](https://youtu.be/NvKR9yM0G3E "LeetHub saves lives!")
 
-  <p align="center"> <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> </p>
+  <p align="center"> <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" +height="180" /> </p>
 
  
 
