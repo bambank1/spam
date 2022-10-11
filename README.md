@@ -154,7 +154,7 @@ python viuw.py
 
    ## (YOUTUBE) TUTORIAL INSTALASI ⬇️
 
-[![LeetHub](https://github.com/FranataVPN/Tiktok-Viuw/blob/main/Tutorial/20221006_213708.jpg)](https://youtu.be/NvKR9yM0G3E "LeetHub saves lives!")
+[![LeetHub](https://github.com/FranataVPN/Spam-Sms/blob/main/20221011_213428.jpg)](https://youtu.be/NvKR9yM0G3E "LeetHub saves lives!")
 
    
 
