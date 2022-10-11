@@ -105,7 +105,8 @@ python viuw.py
 - _SUBSCRIBE: https://youtube.com/c/FRANATA775_
 
 - _DONASI/SAWER: https://saweria.co/FranataVPN_
-[![LeetHub](https://github.com/FranataVPN/Tiktok-Viuw/blob/main/Tutorial/20221006_213708.jpg)](https://youtu.be/NvKR9yM0G3E "LeetHub saves lives!")
+
+[![LeetHub](https://github.com/FranataVPN/Spam-Sms/blob/main/IMG_20221011_213508.jpg)](https://youtu.be/NvKR9yM0G3E "LeetHub saves lives!")
 
   <p align="center"> <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> </p>
 
