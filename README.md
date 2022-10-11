@@ -2,23 +2,35 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&multiline=true&height=85&lines=𝙃𝙚𝙡𝙡𝙤,+𝙬𝙚𝙡𝙘𝙤𝙢𝙚;𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗲+𝗠𝘆+𝗡𝗮𝗺𝗲+𝘍775;𝗦𝘂𝗯𝘀𝗰𝗿𝗶𝗯𝗲+𝘁𝗼+𝗬𝗼𝘂𝗧𝘂𝗯𝗲+𝘍𝘳𝘢𝘯𝘢𝘵𝘢775">
 
+
 <h3 align="left">BAHASA TOOLS</h3>
-
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-
-    height="40" /> </a> </p> 
-
-    
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python". 
+          height="40" /> </a> </p>         
+                                                     
 
     
+    
 
-  
 
-      
 
-      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
 
