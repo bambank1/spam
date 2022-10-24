@@ -45,6 +45,9 @@
 termux-setup-storage
 
 ```
+```sh
+cd /sdcard
+```
 
 ```sh
 
